@@ -1,5 +1,8 @@
 # Complete Implementation Guide: OCI KMS Backup & Restore
 
+<img width="672" alt="Screenshot 2024-11-25 at 4 37 20 PM" src="https://github.com/user-attachments/assets/c1f92034-021f-44a1-9d77-f31eb5d30bb8">
+
+
 ## Prerequisites
 
 ### 1. OCI Environment Setup
